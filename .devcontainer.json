@@ -1,0 +1,8 @@
+{
+    "image":"kaldi-ubuntu-env",
+    "extensions": [
+        "ms-azuretools.vscod-docker",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ]
+}

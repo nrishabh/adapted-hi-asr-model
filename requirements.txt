@@ -1,0 +1,10 @@
+atlas
+autoconf
+libtool
+svn
+wget
+awk
+bash
+grep
+make
+perl
