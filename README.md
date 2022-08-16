@@ -2,7 +2,7 @@
 <!-- TODO: Description of project -->
 
 ## Kaldi Toolkit
-Before running anything, make sure you download and install[kaldi-toolkit](https://kaldi-asr.org/doc/install.html).
+Before running anything, make sure you download and install [kaldi-toolkit](https://kaldi-asr.org/doc/install.html).
 
 ## Hindi Datasets
 The following datasets have been found, which can be downloaded and stored in the `dataset` folder.
