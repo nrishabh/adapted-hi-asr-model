@@ -20,14 +20,14 @@ Replicate the following directory structure to develop the model.
 
     iitm-asr-toolkit
     ├── ...
-    ├──audio
-    |    ├──train: Contains all WAV files for training data
-    |    ├──dev: Contains all WAV files for development data
-    |    └──test: Contains all WAV files for testing data
-    ├──data
-    |    ├──train: Contains all transcription files for training data
-    |    ├──dev: Contains all transcription files for development data
-    |    ├──test: Contains all transcription files for testing data
-    |    └──local
-    |       └──dictionary: Contains all phonetic dictionary files for the model
+    ├── audio
+    |    ├── train: Contains all WAV files for training data
+    |    ├── dev: Contains all WAV files for development data
+    |    └── test: Contains all WAV files for testing data
+    ├── data
+    |    ├── train: Contains all transcription files for training data
+    |    ├── dev: Contains all transcription files for development data
+    |    ├── test: Contains all transcription files for testing data
+    |    └── local
+    |       └── dictionary: Contains all phonetic dictionary files for the model
     └── ...
