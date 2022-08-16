@@ -1,10 +1,8 @@
-# adapted-hi-asr-model
-Adaptation of Hindi Speech Recognition Model (using Kaldi)
+# Creating a Hindi Speech Recognition Model using Kaldi
+<!-- TODO: Description of project -->
 
-## Libraries
-The following libraries' source codes were downloaded in the `libraries` folder and compiled.
-
-**[Kaldi Toolkit](https://kaldi-asr.org/doc/install.html)**
+## Kaldi Toolkit
+Before running anything, make sure you download and install[kaldi-toolkit](https://kaldi-asr.org/doc/install.html).
 
 ## Hindi Datasets
 The following datasets have been found, which can be downloaded and stored in the `dataset` folder.
