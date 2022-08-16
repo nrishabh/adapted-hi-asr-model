@@ -5,7 +5,7 @@
 Before running anything, make sure you download and install [kaldi-toolkit](https://kaldi-asr.org/doc/install.html).
 
 ## Hindi Datasets
-The following datasets have been found, which can be downloaded and stored in the `dataset` folder.
+The following datasets have been found for Hindi language.
 
 **[Common Voice](https://commonvoice.mozilla.org/en/datasets)**
 
@@ -18,16 +18,16 @@ The following datasets have been found, which can be downloaded and stored in th
 ## Structuring Dataset into IITM-ASR-Toolkit Folder
 Replicate the following directory structure to develop the model.
 
-    `iitm-asr-toolkit`
+    iitm-asr-toolkit
     ├── ...
-    ├──`audio`
-    |    ├──`train`: Contains all WAV files for training data
-    |    ├──`dev`: Contains all WAV files for development data
-    |    └──`test`: Contains all WAV files for testing data
-    ├──`data`
-    |    ├──`train`: Contains all transcription files for training data
-    |    ├──`dev`: Contains all transcription files for development data
-    |    ├──`test`: Contains all transcription files for testing data
-    |    └──`local`
-    |       └──`dictionary`: Contains all phonetic dictionary files for the model
+    ├──audio
+    |    ├──train: Contains all WAV files for training data
+    |    ├──dev: Contains all WAV files for development data
+    |    └──test: Contains all WAV files for testing data
+    ├──data
+    |    ├──train: Contains all transcription files for training data
+    |    ├──dev: Contains all transcription files for development data
+    |    ├──test: Contains all transcription files for testing data
+    |    └──local
+    |       └──dictionary: Contains all phonetic dictionary files for the model
     └── ...
