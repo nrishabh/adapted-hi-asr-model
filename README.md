@@ -2,12 +2,12 @@
 Adaptation of Hindi Speech Recognition Model (using Kaldi)
 
 ## Libraries
-The following libraries' source codes were downloaded and compiled.
+The following libraries' source codes were downloaded in the `libraries` folder and compiled.
 
 **[Kaldi Toolkit](https://kaldi-asr.org/doc/install.html)**
 
 ## Hindi Datasets
-The following datasets have been found, which can be downloaded and stored in this folder.
+The following datasets have been found, which can be downloaded and stored in the `dataset` folder.
 
 **[Common Voice](https://commonvoice.mozilla.org/en/datasets)**
 
@@ -15,4 +15,4 @@ The following datasets have been found, which can be downloaded and stored in th
 
 **[OpenSLR: Multilingual and code-switching ASR Challenge Dataset (Sub-task 2)](http://www.openslr.org/104/)**
 
-**[IIT Madras Speech Lab's Hindi ASR Challenge](https://sites.google.com/view/asr-challenge/home)**
+**[Speech Lab, IITM - Hindi Corpus](https://sites.google.com/view/asr-challenge/home)**
