@@ -1,0 +1,2 @@
+Change the path in "wav.scp" according to your local folder structure.
+The stage 1 run_gmm.sh, prepares the wav.scp ----This script expects train wave files to be inside the folder "train" and test inside "dev".
