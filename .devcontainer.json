@@ -1,5 +1,5 @@
 {
-    "image":"kaldi-ubuntu-env",
+    "image":"kaldi-env",
     "extensions": [
         "ms-azuretools.vscod-docker",
         "ms-python.python",

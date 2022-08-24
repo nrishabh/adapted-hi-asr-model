@@ -1,7 +1,5 @@
 # Train your own ASR model
 
-This toolkit was created by IIT Madras' Speech Lab and can be found in their [Hindi ASR Challenge repository](https://github.com/Speech-Lab-IITM/Hindi-ASR-Challenge/tree/master/asr).
-
 We have set up all the scripts for you to build your own Gaussian Mixture Model (GMM), Hidden Markov Model (HMM) and a Chain Model using deep neural networks. We assume the user to have a basic knowledge of git and GitHub. If not, check out this [link](https://git-scm.com).
 
 ## Pre-trained model:

@@ -1,4 +1,3 @@
-datasets/
-VOSK-models/
-kaldi-toolkit/
-iitm-asr-toolkit/audio
+dataset/
+kaldi/
+asr/audio

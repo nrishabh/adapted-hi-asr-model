@@ -18,7 +18,7 @@ The following datasets have been found for Hindi language.
 ## Structuring Dataset into IITM-ASR-Toolkit Folder
 Replicate the following directory structure to develop the model.
 
-    iitm-asr-toolkit
+    dataset
     ├── ...
     ├── audio
     |    ├── train: Contains all WAV files for training data
