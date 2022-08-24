@@ -1,5 +1,5 @@
 MAIN_ROOT=/home/Downloads
-KALDI_ROOT=$MAIN_ROOT/kaldi
+KALDI_ROOT=/workspaces/adapted-hi-asr-model/kaldi
 #source $MAIN_ROOT/venv/bin/activate
 
 [ -f $KALDI_ROOT/tools/env.sh ] && . $KALDI_ROOT/tools/env.sh
