@@ -42,7 +42,7 @@ fi
 loc=`which ngram-count`;
 if [ -z $loc ]; then
   if uname -a | grep 64 >/dev/null; then # some kind of 64 bit...
-    sdir=/speech1/software/kaldi_20170925/tools/srilm/bin/i686-m64
+    sdir=/workspaces/adapted-hi-asr-model/kaldi/tools/srilm/SRILM-1.7.3/bin/i686-m64
   else
     sdir=/speech1/software/kaldi_20170925/tools/srilm/bin/i686
   fi
